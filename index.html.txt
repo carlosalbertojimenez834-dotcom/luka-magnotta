@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luka Magnotta: The Killer from the Forbidden Video</title>
+    <!-- Link to Tailwind CSS CDN for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Link to Google Fonts for Inter (body) and Creepster (title) fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Custom styles for body and fonts */
+        body {
+            font-family: 'Inter', sans-serif; /* Main font for body text */
+            background-color: #000000; /* Pure black background */
+            color: #34D399; /* Green text color (Tailwind green-500) */
+            line-height: 1.6;
+            overflow-x: hidden; /* Prevent horizontal scroll */
+        }
+        .title-font {
+            font-family: 'Creepster', cursive; /* Font for the main title */
+        }
+        /* Subtle text shadow for the title to enhance creepy feel */
+        .text-shadow-creepy {
+            text-shadow: 0 0 5px rgba(52, 211, 153, 0.5), 0 0 10px rgba(52, 211, 153, 0.3);
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4 sm:p-6 md:p-8 lg:p-10">
+    <div class="container max-w-4xl mx-auto bg-gray-950 bg-opacity-80 rounded-xl shadow-lg p-6 sm:p-8 md:p-10 border border-green-700">
+        <!-- Main title of the story -->
+        <h1 class="title-font text-4xl sm:text-5xl md:text-6xl text-center text-green-400 mb-8 text-shadow-creepy leading-tight">
+            Luka Magnotta: The Killer from the Forbidden Video
+        </h1>
+
+        <!-- Section 1: Introduction to the crime -->
+        <div class="mb-10 border-b border-green-800 pb-6">
+            <p class="text-lg sm:text-xl font-bold mb-4 text-green-300">Montreal, 2012.</p>
+            <p class="mb-4 text-green-100">
+                A package arrived at the office of Canada’s Conservative Party.
+                Inside it: a human hand.
+            </p>
+            <p class="mb-4 text-green-100">
+                A few hours later, another package was intercepted at an elementary school—this time, it contained a foot.
+            </p>
+            <p class="text-green-100 italic">
+                What seemed like the beginning of an organized crime story was, in reality, the final chapter of a deeply disturbed mind…
+                and the climax of a global manhunt that started with something no one took seriously.
+            </p>
+        </div>
+
+        <!-- Visual separator -->
+        <div class="my-8 text-center text-green-700 text-3xl font-bold">⸻</div>
+
+        <!-- Section 2: The internet beginning -->
+        <div class="mb-10 border-b border-green-800 pb-6">
+            <p class="text-lg sm:text-xl font-bold mb-4 text-green-300">Everything began on the internet.</p>
+            <p class="mb-4 text-green-100">
+                In 2010, a video surfaced in a dark corner of the web.
+                It showed a skinny young man with pale, attractive features, gently petting two kittens…
+                and then… sealing them inside a vacuum bag and suffocating them.
+            </p>
+            <p class="mb-4 text-green-100">
+                No music.
+                No face.
+                Just a disturbing image that went viral in the darkest forums online.
+            </p>
+            <p class="mb-4 text-green-100">
+                The police didn’t prioritize it. But a group of anonymous internet users did.
+            </p>
+            <p class="mb-4 text-green-100">
+                They banded together from different parts of the world to find him.
+                They analyzed every detail: the wall outlet, the blanket, the brand of cigarettes.
+                All to identify the man who called himself “1lunatic1icepick.”
+            </p>
+            <p class="mb-4 text-green-100">
+                Two years of digital investigation followed.
+                He toyed with them—leaving clues, creating fake profiles, even spreading rumors about himself on Wikipedia and forums, as if building his own myth.
+            </p>
+            <p class="text-green-100 italic">
+                But what no one imagined was that his obsession wasn’t with cats…
+                It was with attention.
+                And he was about to cross the line.
+            </p>
+        </div>
+
+        <!-- Visual separator -->
+        <div class="my-8 text-center text-green-700 text-3xl font-bold">⸻</div>
+
+        <!-- Section 3: The final crime -->
+        <div class="mb-10 border-b border-green-800 pb-6">
+            <p class="text-lg sm:text-xl font-bold mb-4 text-green-300">On May 25, 2012, a new video appeared.</p>
+            <p class="mb-4 text-green-100">
+                This time, it wasn’t cats.
+                It was a human being.
+                A young Chinese student named Jun Lin, tied to a bed.
+                And what happened in that video is simply indescribable.
+            </p>
+            <p class="mb-4 text-green-100">
+                It was filmed with a fixed camera.
+                Magnotta murdered him brutally.
+                He used an ice pick. Dismembered the body.
+                And then… mailed pieces of the corpse to schools, political parties, and media outlets.
+            </p>
+            <p class="text-green-100 italic">
+                He did it for fame.
+                Because he wanted the world to talk about him.
+                And he succeeded.
+            </p>
+        </div>
+
+        <!-- Visual separator -->
+        <div class="my-8 text-center text-green-700 text-3xl font-bold">⸻</div>
+
+        <!-- Section 4: The capture and trial -->
+        <div>
+            <p class="text-lg sm:text-xl font-bold mb-4 text-green-300">Interpol issued a red notice.</p>
+            <p class="mb-4 text-green-100">
+                Magnotta had fled.
+                He passed through France, then Germany, using fake identities—until he was found in an internet café in Berlin.
+                Why was he caught?
+                He was reading news about himself.
+            </p>
+            <p class="mb-4 text-green-100">
+                He was extradited to Canada, tried in Montreal, and sentenced to life in prison.
+            </p>
+            <p class="text-green-100 italic">
+                During the trial, he showed zero remorse.
+                He claimed to suffer from mental illness, but the jury didn’t believe him.
+                To them—and to the entire country—Luka Magnotta was something even worse:
+                A narcissistic killer, willing to do anything for fame.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
